@@ -9,3 +9,5 @@ FIRST
 We focussed on ising model simulations based on metropolis algorithm. With many small tricks we finally are able to generate many samply with fast execution time.
 From this, we are able to reproduce few already explored properties of the 2D ising model.
 
+
+<img height="300" src="https://github.com/joseph-elf/Ising/blob/main/IMGs/T%3D0.10%2CH%3D0.00.png">
