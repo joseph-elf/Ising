@@ -11,3 +11,8 @@ From this, we are able to reproduce few already explored properties of the 2D is
 
 
 <img height="300" src="https://github.com/joseph-elf/Ising/blob/main/IMGs/T%3D0.10%2CH%3D0.00.png">
+<img height="300" src="https://github.com/joseph-elf/Ising/blob/main/IMGs/T%3D1.00%2CH%3D0.00.png">
+
+<img height="300" src="https://github.com/joseph-elf/Ising/blob/main/IMGs/magnetization.png">
+<img height="300" src="https://github.com/joseph-elf/Ising/blob/main/IMGs/oneGridCorr.png">
+<img height="300" src="https://github.com/joseph-elf/Ising/blob/main/IMGs/severalCorr.png">
